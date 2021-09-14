@@ -1,3 +1,3 @@
-## Full Stack Note Upload App under 1 hour
+# Full Stack Note Upload App under 1 hour
 
-# Technology used
+## Technology used
