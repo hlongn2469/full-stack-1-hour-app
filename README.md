@@ -1,7 +1,8 @@
 # Full Stack Note Upload App
 
 ## Overview
-- [ ] We will be building a simple web app that allows users to sign up/sign in to CRUD their notes with the functionality to add image files associated with the notes. 
+- [ ] We will be building a simple web app that allows users to sign up/sign in to CRUD their notes with the functionality to add image files associated with the notes within an hour.
+- [ ]  
 
 ## Technology used
 - [ ] front-end: ReactJS
@@ -23,5 +24,8 @@
   * Create a storage service
   * Update a GraphQL schema
   * Update the React app
+
+## REFERENCE:
+- [ ] https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/
 
 
