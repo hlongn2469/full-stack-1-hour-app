@@ -2,7 +2,6 @@
 
 ## Overview
 - [ ] We will be building a simple web app that allows users to sign up/sign in to CRUD their notes with the functionality to add image files associated with the notes within an hour.
-- [ ]  
 
 ## Technology used
 - [ ] front-end: ReactJS
